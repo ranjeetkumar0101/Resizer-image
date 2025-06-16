@@ -1,1 +1,4 @@
-# Resizer-image
+streamlit
+opencv-python
+numpy
+Pillow
