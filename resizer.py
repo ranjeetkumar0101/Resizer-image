@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 import io
 
-import streamlit as st
 
 hide_streamlit_cloud_elements = """
     <style>
